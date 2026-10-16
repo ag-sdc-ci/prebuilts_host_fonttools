@@ -1,0 +1,5 @@
+shadow prebuilt repo: fonttools (host)
+  arch package: python-fonttools v4.67.0-1, Arch Linux extra repo
+  api-level: universal (Python library host)
+  layout: python-fonttools-*.pkg.tar.zst at root; extracted fontTools/ python module; Android.bp providing fontTools & fonttools_default
+  date: 2026-10-16
